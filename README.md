@@ -3,4 +3,4 @@
 #### In this first part, we import and clean our data for alaysis
 #### We'er working with three sets of data, phone dataset, students grades and a school report.
 #### We identify and fix errors that hinders our datasets quality
-#### Use imputation to modify data that more sense to the context at hand
+#### Use imputation to modify data that more sense to the context at hand.
